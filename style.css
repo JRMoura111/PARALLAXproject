@@ -4,7 +4,7 @@
 }
 header{
     position: relative;
-    background:rgba(88, 87, 87, 0.9) url(./assets/altumcode-dMUt0X3f59Q-unsplash.jpg);
+    background:rgba(88, 87, 87, 0.9) url(assets/altumcode-dMUt0X3f59Q-unsplash.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -45,7 +45,7 @@ header div {
 }
 #img2{
     position: relative;
-    background:rgba(88, 87, 87, 0.9) url(./assets/altumcode-dMUt0X3f59Q-unsplash.jpg);
+    background:rgba(88, 87, 87, 0.9) url(assets/altumcode-dMUt0X3f59Q-unsplash.jpg);
     background-position: center;
     background-repeat: no-repeat;
     height: 500px;
@@ -74,7 +74,7 @@ header div {
 }
 #img4{
     position: relative;
-    background:rgba(88, 87, 87, 0.6) url(./assets/jason-strull-KQ0C6WtEGlo-unsplash.jpg);
+    background:rgba(88, 87, 87, 0.6) url(assets/jason-strull-KQ0C6WtEGlo-unsplash.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -97,7 +97,7 @@ header div {
 
 #img5{
     position: relative;
-    background:rgba(88, 87, 87, 0.6) url(./assets/money.jpg);
+    background:rgba(88, 87, 87, 0.6) url(assets/money.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
