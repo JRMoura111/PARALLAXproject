@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    position: relative;
+    background:rgba(88, 87, 87, 0.9) url(/assets/altumcode-dMUt0X3f59Q-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 600px;
+    background-attachment:fixed;
+    background-blend-mode: darken;
+    
+}
+header div {
+    background-color: #272626;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid #272626;
+    box-shadow: 5px 10px white;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 2.8em;
+    font-weight: 900;
+    color: white;
+}
+ .text{
+    color: rgb(163, 162, 162);
+    text-align: center;
+    background-color: #383737;
+    height: 200px;
+    padding: 30px;
+} 
+.h2Text{
+    padding-bottom: 20px;
+}
+
+
+
+#webText1 p{
+    font-size: 1.2em;
+}
+#img2{
+    position: relative;
+    background:rgba(88, 87, 87, 0.9) url(/assets/altumcode-dMUt0X3f59Q-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+    background-attachment:fixed;
+    background-blend-mode: darken;
+
+}
+
+#img2 h2{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 2.8em;
+    font-weight: 900;
+    color: white;
+    
+}
+
+#img3 h2{
+    padding-bottom:  20px;
+}
+
+#img3 p{
+    font-size: 1.2em;
+}
+#img4{
+    position: relative;
+    background:rgba(88, 87, 87, 0.6) url(/assets/jason-strull-KQ0C6WtEGlo-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+    background-attachment:fixed;
+    background-blend-mode: darken;
+    
+}
+
+#img4 h2{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 2.8em;
+    font-weight: 900;
+    color: white;
+
+}
+
+#img5{
+    position: relative;
+    background:rgba(88, 87, 87, 0.6) url(/assets/money.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+    background-attachment:fixed;
+    background-blend-mode: darken;
+
+}
+#img5 div {
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 3.8em;
+    font-weight: 900;
+    color: white;
+
+}
+footer{position: relative;
+    background-color: #272626;
+    height: 80px;
+}
+footer p{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+  
+    color: white;
+}
+
+@media only screen and (max-width: 600px) {
+    header div{
+        font-size: 2.3em;
+    }
+    .text{
+        overflow-y: scroll;
+    }
+   
+  }
