@@ -4,7 +4,7 @@
 }
 header{
     position: relative;
-    background:rgba(88, 87, 87, 0.9) url(assets/altumcode-dMUt0X3f59Q-unsplash.jpg);
+    background:rgba(88, 87, 87, 0.9) url(./assets/altumcode-dMUt0X3f59Q-unsplash.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
